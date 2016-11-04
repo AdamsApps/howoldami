@@ -1,8 +1,0 @@
-{
-  "name": "adam ",
-  "description": "how old am i",
-  "repository": "https://github.com/AdamsApps/howoldami",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"],
-  "image": "heroku/nodejs"
-}
