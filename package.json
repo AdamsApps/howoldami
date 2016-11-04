@@ -4,7 +4,7 @@
   "description": "how old am I",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"Hi! the app is running!\""
+    "start": "echo \"Hi! the app is running!\" && node index.js"
   },
   "repository": {
     "type": "git",
