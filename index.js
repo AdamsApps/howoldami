@@ -18,3 +18,5 @@ app.listen(app.get('port'), function() {
 });
 
 
+console.log("how old am i?");
+
