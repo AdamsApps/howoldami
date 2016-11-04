@@ -1,12 +1,14 @@
 <!doctype html>
-<html ng-app="howoldami">
+<html>
   <head>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.1/angular-material.min.css">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
-  <script src="../js/app.js">
+
   </head>
-  <body>
+  <body ng-app="howoldami">
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+      <script src="js/app.js"></script>
+
     <div ng-controller="indexController">
       <label>Name:</label>
       <input type="text" ng-model="yourName" placeholder="Enter a name here">
