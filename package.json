@@ -1,5 +1,22 @@
 {
-"name": "how old am i",
-"version" : "1.0.0"
-
+  "name": "howoldami",
+  "version": "1.0.0",
+  "description": "how old am I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamsApps/howoldami.git"
+  },
+  "author": "Adam Diment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamsApps/howoldami/issues"
+  },
+  "homepage": "https://github.com/AdamsApps/howoldami#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
